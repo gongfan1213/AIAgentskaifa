@@ -1,0 +1,2 @@
+# AIAgentskaifa
+AI Agents应用与项目实战|唐宇迪|尹泽明|Agent框架和应用|使用Coze打造专属Agent|打造专属领域的客服聊天机器人|AutoGenAgent开发框架实战|生成式代理|斯坦福AI小镇|RAG检索建构分析|RAG部署本地知识库|LLM本地部署和应用|Llama3模型的微调量化部署和应用|PEFT微调实战打造医疗领域LLM|LLM和LORA微调策略解读|
